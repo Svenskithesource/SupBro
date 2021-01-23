@@ -1,6 +1,6 @@
 # SupBro
 
-An external cheat for Counter Strike: GO. It's made in Python which makes it fully undetected(watch out for overwatch). It also includes a loader which auto adds junk code everytime you start the cheat so VAC can't sig detect it.
+An external cheat for Counter Strike: GO. It's made in Python which makes it undetected(watch out for overwatch).
 
 ## All functions of the cheat:
 
@@ -12,6 +12,7 @@ An external cheat for Counter Strike: GO. It's made in Python which makes it ful
 ### Visuals
 
 - Glow (fixed color or health based)
+- Wallhack (r_drawothermodels 2)
 - Radar hack
 - No flash
 
@@ -19,4 +20,4 @@ An external cheat for Counter Strike: GO. It's made in Python which makes it ful
 
 - BHOP
 - Money hack (view enemy's money)
-- Radio (with custom songs support)
+- Config system
